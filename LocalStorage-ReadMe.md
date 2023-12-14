@@ -35,7 +35,7 @@ See **[this article](https://javascript.info/localstorage)** for more in depth i
 
 - Also has a length property, so localStorage.length returns the number of items stored
 
-# Local Storage and Seesion Storage
+# Local Storage and Session Storage
 
 ## Session  Storage
 - Session storage works similar to LocalStorgae, but is temporary and disapears when the browser id refreshed.
